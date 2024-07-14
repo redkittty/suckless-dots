@@ -1,0 +1,5 @@
+#!/bin/sh
+
+dwmblocks &
+picom &
+feh --bg-scale ~/Pictures/Wall/wall.jpg &
