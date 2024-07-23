@@ -43,6 +43,9 @@ opt.errorbells = false
 opt.swapfile = false
 opt.backup = false
 
+-- Clipboard
+opt.clipboard = "unnamedplus"
+
 -- Keymappings
 -- Ctrl + Backspace for deleting previous word
 keybind("i", "<C-BS>", "<C-W>")
