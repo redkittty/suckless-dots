@@ -15,3 +15,6 @@ This is mean't to be used with [dwm-envixty](https://github.com/redkittty/dwm-en
 
 - Kitty Terminal
 
+- Ranger File Manager
+
+- Newsboat RSS Reader
