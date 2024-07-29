@@ -13,8 +13,6 @@ This is mean't to be used with [dwm-envixty](https://github.com/redkittty/dwm-en
 
 - Picom
 
-- Kitty Terminal
-
 - Ranger File Manager
 
 - Newsboat RSS Reader

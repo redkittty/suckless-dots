@@ -1,0 +1,10 @@
+#!/bin/sh
+
+notify-send "🔄 Loading Doppler Radar..." "Please wait a moment..."
+
+# Replace **** with WSR-88D Radar ID
+# To find an ID for your location, use "https://www.weather.gov/media/tg/wsr88d-radar-list.pdf" to find your ID
+# Here is a link to the radar.weather.gov web server "https://radar.weather.gov/ridge/standard/", make sure to use the _loop version of your gif to have this work correctly
+
+mpv --loop-file=inf "https://radar.weather.gov/ridge/standard/****_loop.gif"
+
